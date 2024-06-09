@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\",
+  "WorkspaceRootPath": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\enumes\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\enumes\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\models\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\models\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame\\snakegame\\snakegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\models\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\models\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\pixel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\option.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\models\\gameconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\helpers\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|c:\\users\\kokob\\source\\repos\\snakegame2\\snakegame\\snakegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{DE637BD3-892C-4847-99FF-9D77C8F705BA}|SnakeGame\\SnakeGame.csproj|solutionrelative:snakegame\\snakegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -42,80 +46,93 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Snake.cs",
-              "RelativeDocumentMoniker": "SnakeGame\\Models\\Snake.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Snake.cs",
-              "RelativeToolTip": "SnakeGame\\Models\\Snake.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Direction.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Enumes\\Direction.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Enumes\\Direction.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Enumes\\Direction.cs",
+              "RelativeToolTip": "SnakeGame\\Enumes\\Direction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:27:46.817Z"
+              "WhenOpened": "2024-06-09T17:03:28.15Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Snake.cs",
+              "RelativeDocumentMoniker": "SnakeGame\\Models\\Snake.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Snake.cs",
+              "RelativeToolTip": "SnakeGame\\Models\\Snake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:27:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Pixel.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Pixel.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Pixel.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Models\\Pixel.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Pixel.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Pixel.cs",
               "RelativeToolTip": "SnakeGame\\Models\\Pixel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:27:42.274Z"
+              "WhenOpened": "2024-06-09T16:27:42.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Option.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Option.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Option.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Models\\Option.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\Option.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\Option.cs",
               "RelativeToolTip": "SnakeGame\\Models\\Option.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:27:36.005Z"
+              "WhenOpened": "2024-06-09T16:27:36.005Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "GameConfig.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\GameConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\GameConfig.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Models\\GameConfig.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Models\\GameConfig.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Models\\GameConfig.cs",
               "RelativeToolTip": "SnakeGame\\Models\\GameConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:27:29.449Z"
+              "WhenOpened": "2024-06-09T16:27:29.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Utilities.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Helpers\\Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Helpers\\Utilities.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Helpers\\Utilities.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Helpers\\Utilities.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Helpers\\Utilities.cs",
               "RelativeToolTip": "SnakeGame\\Helpers\\Utilities.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAcwIsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-09T16:25:06.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SnakeGame.csproj",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj",
               "RelativeDocumentMoniker": "SnakeGame\\SnakeGame.csproj",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj",
               "RelativeToolTip": "SnakeGame\\SnakeGame.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -123,27 +140,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Game.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Game.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Game.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Game.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Game.cs",
               "RelativeToolTip": "SnakeGame\\Game.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAiAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T16:24:35.803Z"
+              "WhenOpened": "2024-06-09T16:24:35.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Program.cs",
               "RelativeDocumentMoniker": "SnakeGame\\Program.cs",
-              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\Program.cs",
+              "ToolTip": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\Program.cs",
               "RelativeToolTip": "SnakeGame\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:52:27.658Z"
+              "WhenOpened": "2024-06-09T15:52:27.658Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj": {}
+    "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj": {
+    "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj",
+        "projectUniqueName": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj",
         "projectName": "SnakeGame",
-        "projectPath": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\SnakeGame.csproj",
+        "projectPath": "C:\\Users\\kokob\\source\\repos\\SnakeGame2\\SnakeGame\\SnakeGame.csproj",
         "packagesPath": "C:\\Users\\kokob\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kokob\\source\\repos\\SnakeGame\\SnakeGame\\obj\\",
+        "outputPath": "C:\\Users\\kokob\\Source\\Repos\\SnakeGame2\\SnakeGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
